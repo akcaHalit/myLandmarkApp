@@ -40,7 +40,6 @@ class MainActivity : AppCompatActivity() {
         landmarkList.add(londonBridge)
 
 
-
         // RECYCLER VİEW
 
 
