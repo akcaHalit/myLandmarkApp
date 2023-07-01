@@ -10,6 +10,8 @@ import android.widget.ArrayAdapter
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.halitakca.landmarkbookkotlin.databinding.ActivityMainBinding
 
+var chosenLandmark: Landmark? = null
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
